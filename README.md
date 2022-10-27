@@ -11,3 +11,6 @@ Features
 - Provide a link and itll automatically download and post into library
 - Can organize your pdf by categories
 - Drag and drop
+
+## Tech Stack
+- Use electron

@@ -1,16 +1,27 @@
-# pupil
-Lightweight Desktop PDF Reader/Manager
+# Pupil
 
-This is a desktop application written in TypeScript that manages your PDF's
+Lightweight Desktop PDF Reader/Manager written in TypeScript using Electron. Be able to view your PDFs in a library like view, 
+bookmark pages, highlight text, automatically add the PDFs to a library through a link, organize PDFs by category, and drag/drop them into the application. 
 
-Features
-- Library like view for your pdfs you have saved
-- Bookmarks (plus notes)
-- Highlighting text
-- Remove/Delete(off computer)
-- Provide a link and itll automatically download and post into library
-- Can organize your pdf by categories
-- Drag and drop
+## Table of Contents
 
-## Tech Stack
-- Use electron
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Instructions for installing and setting up the project.
+
+## Usage
+
+Instructions for using the project.
+
+## Contributing
+
+Instructions for contributing to the project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.

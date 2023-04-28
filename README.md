@@ -1,5 +1,7 @@
 # Pupil
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/harrisj09/pupil)
+
 Lightweight Desktop PDF Reader/Manager written in TypeScript using Electron. Be able to view your PDFs in a library like view, 
 bookmark pages, highlight text, automatically add the PDFs to a library through a link, organize PDFs by category, and drag/drop them into the application. 
 

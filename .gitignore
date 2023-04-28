@@ -1,0 +1,11 @@
+# ignore the output directory
+dist/
+
+# ignore the node_modules directory
+node_modules/
+
+# ignore the TypeScript cache directory
+*.tsbuildinfo
+
+# ignore package lock file
+package-lock.json
